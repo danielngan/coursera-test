@@ -1,0 +1,190 @@
+/*! HTML5 Boilerplate v8.0.0 | MIT License | https://html5boilerplate.com/ */
+
+/* main.css 2.1.0 | MIT License | https://github.com/h5bp/main.css#readme */
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+h1 {
+  text-align: center;
+}
+
+.block {
+  display: inline-block;
+  font-size: 1rem;
+}
+.content {
+  border-color: black;
+  border-style:solid;
+  border-width:thin;
+  background-color: grey;
+  margin:10px;
+}
+
+.label1 {
+  text-align: center;
+  padding: 2px 15px 2px 15px;
+  width: 80px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-top-width: 0;
+  border-right-width: 0;
+  font-weight: bold;
+  background-color: hotpink;
+}
+
+.label2 {
+  text-align: center;
+  padding: 2px 15px 2px 15px;
+  width: 80px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-top-width: 0;
+  border-right-width: 0;
+  font-weight: bold;
+  background-color: red;
+}
+
+.label3 {
+  text-align: center;
+  padding: 2px 15px 2px 15px;
+  width: 80px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-top-width: 0;
+  border-right-width: 0;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+p {
+
+}
+
+
+.row {
+  width: 100%;
+  font-size: 0;
+
+}
+
+@media (min-width: 992px) {
+  .col-lg-1 .col-lg-2 .col-lg-3 .col-lg-4 .col-lg-5 .col-lg-6 .col-lg-7 .col-lg-8 .col-lg-9 .col-lg-10 .col-lg-11 .col-lg-12 {
+    float: left;
+    border: 1px solid green;
+  }
+
+  .col-lg-1 {
+    width:8.33%;
+  }
+
+  .col-lg-2 {
+    width:16.66%;
+  }
+
+  .col-lg-3 {
+    width:25%;
+  }
+
+  .col-lg-4 {
+    width:33.33%;
+  }
+
+  .col-lg-5 {
+    width:41.66%;
+  }
+
+  .col-lg-6 {
+    width:50%;
+  }
+
+  .col-lg-7 {
+    width:58.33%;
+  }
+
+  .col-lg-8 {
+    width:66.66%;
+  }
+
+  .col-lg-9 {
+    width:75%;
+  }
+
+  .col-lg-10 {
+    width:83.33%;
+  }
+
+  .col-lg-11 {
+    width:91.66%;
+  }
+
+  .col-lg-2 {
+    width:100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px){
+  .col-me-1 .col-me-2 .col-me-3 .col-me-4 .col-me-5 .col-me-6 .col-me-7 .col-me-8 .col-me-9 .col-me-10 .col-me-11 .col-me-12 {
+    float: left;
+    border: 1px solid green;
+  }
+
+  .col-me-1 {
+    width:8.33%;
+  }
+
+  .col-me-2 {
+    width:16.66%;
+  }
+
+  .col-me-3 {
+    width:25%;
+  }
+
+  .col-me-4 {
+    width:33.33%;
+  }
+
+  .col-me-5 {
+    width:41.66%;
+  }
+
+  .col-me-6 {
+    width:50%;
+  }
+
+  .col-me-7 {
+    width:58.33%;
+  }
+
+  .col-me-8 {
+    width:66.66%;
+  }
+
+  .col-me-9 {
+    width:75%;
+  }
+
+  .col-me-10 {
+    width:83.33%;
+  }
+
+  .col-me-11 {
+    width:91.66%;
+  }
+
+  .col-me-12 {
+    width:100%;
+  }
+}
+
+
