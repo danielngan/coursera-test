@@ -1,1 +1,47 @@
+h2 {
+    text-align: center;
+}
 
+#heading {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
+    color: #951C49;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #E7E7E7
+}
+
+#nav-list a span {
+    font-size:1.8em;
+}
+
+.food {
+    background-color: grey;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand h1 {
+
+    color: black;
+    /*font-size:1.5em;
+    /*text-transform: uppercase;*/
+    /*font-weight: bold;*/
+    /*text-shadow: 1px 1px 1px #222;*/
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    margin-left: 0;
+    text-align: left;
+}
